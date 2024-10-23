@@ -1,6 +1,6 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/tinlion-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="docs/images/tinlion-logo-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="docs/images/tinlion-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="docs/images/tinlion-logo-dark.svg">
     <img alt="TinLion" src="docs/images/tinlion-logo-light.svg">
 </picture>
 
